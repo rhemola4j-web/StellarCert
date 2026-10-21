@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-11-all-multisig-controller-handlers-typed-promise",
+    "fix/issue-13-listissuers-returns-all-rows-with-no-pagination",
+    "fix/issue-19-analytics-service-only-counts-three-roles",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-11-all-multisig-controller-handlers-typed-promise": "main",
+    "fix/issue-13-listissuers-returns-all-rows-with-no-pagination": "main",
+    "fix/issue-19-analytics-service-only-counts-three-roles": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-11-all-multisig-controller-handlers-typed-promise",
+    "fix/issue-13-listissuers-returns-all-rows-with-no-pagination",
+    "fix/issue-19-analytics-service-only-counts-three-roles",
+    "origin"
+  ]
+}
